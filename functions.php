@@ -1,5 +1,6 @@
 <?php
 
+// the eval() PHP function made by me
 function eval_expression($inFix) {
   $postFix = shuting_yard_algorithm($inFix);
   $result = postfix_evalutation($postFix);
