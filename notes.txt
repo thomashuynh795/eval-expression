@@ -1,0 +1,8 @@
+regex
+recursivite
+optimisation
+priorite des parentheses
+notation polonaise inversee
+gestion de polonaise
+arbres de calculs
+
